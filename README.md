@@ -1,4 +1,4 @@
-# Bearing
+# <img src="public/bearing.png" width="40" align="top" style="margin-right: 8px;" /> Bearing
 
 Welcome to **Bearing**! This tool is designed to help executives, strategists, and non-technical stakeholders quickly find their client's bearings. While this specific deployment is tailored for Shop-EY—assessing global e-commerce markets to determine where additional investment will drive the greatest business value, Bearing's underlying architecture is designed to be universally effective for navigating complex strategic decisions pertaining to global markets across any industry.
 
@@ -17,7 +17,7 @@ The dashboard evaluates each market across four key pillars:
 * **Market Opportunity:** How digitally ready is the country? We look at internet penetration, financial account ownership, GDP per capita, and population size.
 * **Peer Operating Health:** How profitable are the existing companies there? We analyze the revenue growth and operating margins of local competitors.
 * **Peer Price Momentum:** How is the stock market treating them? We track the recent 63-day stock price returns of local retail companies.
-* **Stress Resilience:** How risky is it? We use a predictive Machine Learning model (Forward Peer Risk) to forecast the probability of high financial volatility over the next few months.
+* **Stress Resilience:** How risky is it? We use a predictive Machine Learning model (Projected Peer Group Risk) to forecast the probability of high financial volatility over the next few months.
 
 ## How to use the Dashboard
 
@@ -27,7 +27,7 @@ When you open the dashboard, you will see a global leaderboard. Markets are rank
 * **Click to Dive Deeper:** Click on any country row to open a detailed breakdown of exactly *why* it received its score.
 
 ### 2. The Interactive AI Assistant (Northstar)
-See the floating **Northstar** button? That is your AI-powered strategic assistant.
+See the floating **Northstar** button? <img src="public/northstar_white.png" width="32" style="vertical-align: middle;" /> That is your AI-powered strategic assistant.
 * You can ask it plain-English questions like *"Which market has the highest peer stress?"* or *"Why is India a good growth bet?"* 
 * Northstar can actually read the underlying datasets, financial models, and macroeconomic reports to give you a cited, factual answer.
 
